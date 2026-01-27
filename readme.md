@@ -42,7 +42,7 @@
 ## Tech I Work With
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,py,nextjs,react,tailwind,nodejs,express,django,postgres,mongodb,redis,firebase,solidity,git,githubactions,linux,nginx,,docker,aws" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,py,nextjs,react,tailwind,nodejs,express,django,postgres,mongodb,redis,firebase,solidity,git,githubactions,linux,nginx,docker,aws" />
 </p>
 
 ---
