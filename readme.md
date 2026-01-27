@@ -15,7 +15,9 @@
 - **Developer Intern [@GetCrux (YC W24)](https://www.getcrux.ai)** — worked on LLM agents, AI chat interfaces & data visualizations  
 - **Fullstack Engineer Intern @Jyotirlinga Technologies** — scalable exam platform on AWS  
 - **Backend Engineer Intern @ArchiTech Solution** — modernized legacy Node apps & APIs  
-- **Frontend Engineer Intern @MyPathGuider** — social features, auth systems & content tools  
+- **Frontend Engineer Intern @MyPathGuider** — social features, auth systems & content tools
+
+> *For a detailed view of my experience, check out my [résumé](./Resume-2026.pdf).*
 
 ---
 
