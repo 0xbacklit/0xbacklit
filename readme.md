@@ -9,7 +9,7 @@
 
 ---
 
-## 💼 Work
+## Work
 
 - **Full-Stack Engineer [@GetCrux (YC W24)](https://www.getcrux.ai)** — building AI-powered ad generation, analytics & reporting systems  
 - **Developer Intern [@GetCrux (YC W24)](https://www.getcrux.ai)** — worked on LLM agents, AI chat interfaces & data visualizations  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🧪 Things I’ve Built
+## Things I’ve Built
 
 - **AI ad generation & reporting platforms** used by 200+ users  
 - **LLM-powered agents** for data querying, graph generation & insights  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
 - 🥇 Smart India Hackathon 2022 — Winner  
 - 🥈 Inter IIT Tech Meet 11.0 — 2nd Runner-up  
@@ -39,16 +39,17 @@
 
 ---
 
-## 🧰 Tech I Work With
+## Tech I Work With
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,py,react,nodejs,express,django,postgres,mongodb,firebase,solidity,git,linux,docker,aws" />
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,py,nextjs,react,tailwind,nodejs,express,django,postgres,mongodb,redis,firebase,solidity,git,githubactions,linux,nginx,,docker,aws" />
 </p>
 
 ---
 
-## 🌐 Find Me Online
+## Find Me Online
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kundankushwaha  
-- 🐙 GitHub: https://github.com/kundankushwaha  
-- 📧 Email: kundankushwaha.er@gmail.com
+- [linkedin.com/in/kundankushwaha](https://www.linkedin.com/in/kundankushwaha)  
+- [github.com/0xbacklit](https://github.com/0xbacklit)
+- [x.com/0xbacklit](https://x.com/0xbacklit)
+- [medium.com/@kundankushwaha.er](https://medium.com/@kundankushwaha.er)
