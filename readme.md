@@ -51,7 +51,4 @@
 
 ## Find Me Online
 
-- [linkedin.com/in/kundankushwaha](https://www.linkedin.com/in/kundankushwaha)  
-- [github.com/0xbacklit](https://github.com/0xbacklit)
-- [x.com/0xbacklit](https://x.com/0xbacklit)
-- [medium.com/@kundankushwaha.er](https://medium.com/@kundankushwaha.er)
+- [linkedin.com/in/kundankushwaha](https://www.linkedin.com/in/kundankushwaha) - [github.com/0xbacklit](https://github.com/0xbacklit) - [x.com/0xbacklit](https://x.com/0xbacklit) - [medium.com/@kundankushwaha.er](https://medium.com/@kundankushwaha.er)
