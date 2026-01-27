@@ -7,8 +7,6 @@
 - Reach me at [**kundankushwaha.er@gmail.com**](mailto:kundankushwaha.er@gmail.com)
 
 
----
-
 ## Work
 
 - **Full-Stack Engineer [@GetCrux (YC W24)](https://www.getcrux.ai)** — building AI-powered ad generation, analytics & reporting systems  
@@ -19,7 +17,6 @@
 
 > *For a detailed view of my experience, check out my [résumé](./Resume-2026.pdf).*
 
----
 
 ## Things I’ve Built
 
@@ -30,7 +27,6 @@
 - **Solar flare detection & classification system**  
 - **Blockchain & smart-contract–based applications**
 
----
 
 ## Highlights
 
@@ -39,15 +35,11 @@
 - 🏅 Sparkathon 2023 @ Walmart — Finalist  
 - ⭐ 500+ DSA problems solved (HackerRank Gold)
 
----
-
 ## Tech I Work With
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,py,nextjs,react,tailwind,nodejs,express,django,postgres,mongodb,redis,firebase,solidity,git,githubactions,linux,nginx,docker,aws" />
 </p>
-
----
 
 ## Find Me Online
 
