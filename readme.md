@@ -33,7 +33,7 @@
 - 🥇 Smart India Hackathon 2022 — Winner  
 - 🥈 Inter IIT Tech Meet 11.0 — 2nd Runner-up  
 - 🏅 Sparkathon 2023 @ Walmart — Finalist  
-- ⭐ 500+ DSA problems solved (HackerRank Gold)
+- ⭐ 230+ DSA problems solved (HackerRank Gold)
 
 ## Tech I Work With
 
