@@ -13,7 +13,7 @@
 - **Developer Intern [@GetCrux (YC W24)](https://www.getcrux.ai)** — worked on LLM agents, AI chat interfaces & data visualizations  
 - **Fullstack Engineer Intern @Jyotirlinga Technologies** — scalable exam platform on AWS  
 
-> *For a detailed view of my experience, check out my [résumé](./Resume-2026.pdf).*
+> *For a detailed view of my experience, check out my [résumé](./Kundan_Kumar_Kushwaha_Resume.pdf).*
 
 
 ## Things I’ve Built
